@@ -30,7 +30,7 @@ export default function Home() {
           <p className="flex-1 font-open-sauce">
             I enjoy using design to create amazing user experiences powered by code and I love to build amazing things that live on the web.
           </p>
-          <div id="contact" className="flex flex-col lg:flex-row items-center gap-4 justify-self-end">
+          <div className="flex flex-col lg:flex-row items-center gap-4 justify-self-end">
             <Link href={'mailto:jamesegeonu003@gmail.com'} target="_blank">
               <button className="bg-black bg-opacity-95 text-white font-medium py-3 px-12 rounded-full w-60 lg:w-auto">
               Contact me
